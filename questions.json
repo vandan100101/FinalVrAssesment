@@ -1,0 +1,35 @@
+[
+  {
+    "question": "What is 2+2?",
+    "answers": [
+      "4",
+      "5"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "What is the capital of France?",
+    "answers": [
+      "Rome",
+      "Paris"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Is Earth round?",
+    "answers": [
+      "Yes",
+      "No"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "ako si?",
+    "answers": [
+      "cris",
+      "hans",
+      "van"
+    ],
+    "correct": 1
+  }
+]
